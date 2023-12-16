@@ -1,6 +1,6 @@
 # My Personal Resume
 
-**Description**: This repository serves as the source code for my personal resume website hosted on GitHub Pages. You can access the live website at [https://yourusername.github.io](https://yourusername.github.io).
+**Description**: This repository serves as the source code for my personal resume website hosted on GitHub Pages. You can access the live website at [https://abrahamparoya.github.io](https://abrahamparoya.github.io).
 
 ## Table of Contents
 
@@ -24,11 +24,11 @@ To access my personal resume online, simply visit the following link:
 
 You can navigate through the website using the menu options, and you'll find sections dedicated to my:
 
-- **About Me**: A brief introduction to who I am.
+- **About Me**: My name is Abraham Paroya, I am a 4th year electrical and computer engineering student at Temple University specializing in AI and machine learning. 
 - **Resume**: An overview of my professional background and experience.
 - **Skills**: Information about the skills and technologies I specialize in.
 - **Projects**: Highlights of some of my notable projects.
-- **Contact**: How to get in touch with me for inquiries or collaborations.
+- **Contact**: My is email is paroyaabraham [at] temple [dot] edu
 
 ## Customization
 
