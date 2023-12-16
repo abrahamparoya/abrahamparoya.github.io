@@ -20,7 +20,7 @@ Feel free to explore the website to get an overview of my qualifications and con
 
 To access my personal resume online, simply visit the following link:
 
-[https://yourusername.github.io](https://yourusername.github.io)
+[https://abrahamparoya.github.io](https://abrahamparoya.github.io)
 
 You can navigate through the website using the menu options, and you'll find sections dedicated to my:
 
