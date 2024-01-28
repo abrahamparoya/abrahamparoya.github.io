@@ -45,11 +45,10 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/1704338292183.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hello! My name is Abraham, I am a currently employed at the Computer Fusion Lab at Temple Unviversity doing research in image recognition.
+  Skills: TensorFlow, Django, MySQL, Verilog , System Verilog,C, C++, Python, JavaScript, MATLAB, AutoCAD, ROS, Linux, Microsoft365 and Jira
 
 content:
   - title: Projects # Title for the section
